@@ -1,0 +1,52 @@
+body{
+    background-color: #191919;
+    font-family: arial;
+    ;
+}
+
+
+
+.js-scoor, .js-result,.js-move,.js-massage-btn{
+    font-size: 25px;
+    color: white;
+}
+.move-img{
+    width: 120px;
+    height: 120px;
+    padding: 45px;
+    
+}
+.move-button{
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 70px;
+    margin-left: 15px;
+    cursor: pointer;
+    transition: 0.2s;
+
+}
+.move-button:active{
+    opacity: 0.5;
+}
+.btn-reset,.auto-play-btn{
+    padding: 15px 40px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.js-move{
+    color: white;
+     font-size: 30px;
+      margin-left: 10px;
+      
+}
+.move-img1{
+    width: 60px;
+}
+.js-yes-btn,.js-no-btn{
+    padding: 15px 25px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+}
