@@ -1,13 +1,13 @@
 # Rock-Paper-Scissors-Game- Advanced Autometed Function
  Crated by JavaScript and HTML and responsive UI using CSS.
 
-##features
--> Auto GamePlay Available.
--> Win, loss localStorage save.
-->  Reset Score with warning!
--> Respnsive UI
--> Random Pick from Computer side
--> Full Resposive for (Mobile, Tablet, Laptop, Desktop).
+## Features
+- Auto GamePlay Available.
+- Win, loss localStorage save.
+- Reset Score with warning!
+- Respnsive UI
+- Random Pick from Computer side
+- Full Resposive for (Mobile, Tablet, Laptop, Desktop).
 
 ## 🛠 Tech Stack
 
